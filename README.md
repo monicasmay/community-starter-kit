@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
-
-DESCRIPTION PLACEHOLDER
+* This project is for Mona
+* It contains information that Mona added
+* It is called Welcome page 
 
 ## What it does
-
-FEATURES PLACEHOLDER
+* Welcomes the user
+* Provides them with information
+* Allows them to make changes 
 
 ## Getting started
 
